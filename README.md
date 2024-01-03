@@ -10,7 +10,7 @@ Hallo. Es ist ein kleines Auto mit ein ESP32-Chip, zwei L298N, vier Motoren und 
 
 
 
-Man kann es auf PC, Handy usw. kontrollieren. Eigentlich ist es drahtlos. Aber die Batterie-Kombination ist instabil. Es kann nun schlecht Energie versorgen. Deswegen brache ich eine Draht für Chip zu arbeiten.
+Man kann es auf PC, Handy usw. kontrollieren. Eigentlich ist es drahtlos. Aber die Batterie-Kombination ist instabil. Es kann nun schlecht Energie versorgen. Deswegen brauche ich eine Draht für Chip zu arbeiten.
 
 Hier ist ein Video-Link:
 https://www.youtube.com/watch?v=hXvq2t0CkZw
