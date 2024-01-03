@@ -1,6 +1,6 @@
 # ESP32_Auto
 
-Hallo. Es ist ein kleines Auto mit ein ESP32-Chip, zwei L298N, vier Motoren und Rädern. Mein Ziel war es, die Katze mit dem Auto zu unterhalten. Dadurch habe ich es nicht so schön gebaut und die Qualität nicht gut garantiert.
+Hallo. Es ist ein kleines Auto mit ein ESP32-Chip, zwei L298N, vier Motoren und Rädern. Mein Ziel war es, die Katze mit dem Auto zu unterhalten. Dadurch habe ich es nicht so schön gebaut und auch die Qualität nicht so gut garantiert.
 
 
 
