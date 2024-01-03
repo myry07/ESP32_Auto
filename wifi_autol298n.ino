@@ -2,9 +2,11 @@
 #ifdef ESP32
 #include <WiFi.h>
 #include <AsyncTCP.h>
+//https://github.com/me-no-dev/AsyncTCP/archive/refs/heads/master.zip
 #elif defined(ESP8266)
 #include <ESP8266WiFi.h>
 #include <ESPAsyncTCP.h>
+//https://github.com/me-no-dev/ESPAsyncWebServer/archive/refs/heads/master.zig
 #endif
 #include <ESPAsyncWebServer.h>
 
